@@ -1,6 +1,7 @@
 div{
     display: flex;
     flex-direction: row;
+    justify-content: center;
 }
 section{
     background-color: #ffffff3b;
@@ -31,4 +32,5 @@ h1{
 p{
     color:  #401C2A;
     font-size: large;
+
 }
